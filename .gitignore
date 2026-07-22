@@ -1,2 +1,3 @@
 .cache.sqlite 
 .ipymb_checkpoints/ 
+.ipynb_checkpoints/ 
