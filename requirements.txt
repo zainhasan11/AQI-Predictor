@@ -1,0 +1,13 @@
+openmeteo-requests
+requests-cache
+retry-requests
+pandas
+numpy
+duckdb
+scikit-learn
+lightgbm
+shap
+matplotlib
+streamlit
+plotly
+joblib
